@@ -3,7 +3,7 @@ The Second Version of the FC-Bot, fill in config.json and you're good to go.
 
 
 Credits;
-@FlamingCat - Coding
 
+@FlamingCat - Coding
 
 @flamerds - Coding
